@@ -16,7 +16,7 @@ namespace Rechner_Schnuppern
         string operand1 = string.Empty;
         string operand2 = string.Empty;
         char operation;
-        double result = 0.0;
+        double? result = null;
         private void setOperand1()
         {
             operand1 = input;
@@ -124,7 +124,7 @@ namespace Rechner_Schnuppern
             operand1 = string.Empty;
             operand2 = string.Empty;
             operation = (char)0;
-            result = 0.0;
+            result = null;
             setTextField(input);
         }
         private void setTextField(string input)
@@ -133,7 +133,7 @@ namespace Rechner_Schnuppern
             txtBox.Text += operand1;
             txtBox.Text += operation;
 
-            if (result > 0.0)
+            if (result != null)
             {
                 txtBox.Text += operand2;
                 txtBox.Text += "=";
@@ -162,7 +162,14 @@ namespace Rechner_Schnuppern
                     result = num1 * num2;
                     break;
                 case '/':
-                    result = num1 / num2;
+                    if (num2 == 0)
+                    {
+                        result = 0;
+                    }
+                    else
+                    { 
+                        result = num1 / num2; 
+                    }
                     break;
             }
             setTextField("");
