@@ -1,0 +1,15 @@
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\bin\Debug\netcoreapp3.1\Rechner Schnuppern.exe
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\bin\Debug\netcoreapp3.1\Rechner Schnuppern.deps.json
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\bin\Debug\netcoreapp3.1\Rechner Schnuppern.runtimeconfig.json
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\bin\Debug\netcoreapp3.1\Rechner Schnuppern.runtimeconfig.dev.json
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\bin\Debug\netcoreapp3.1\Rechner Schnuppern.dll
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\bin\Debug\netcoreapp3.1\Rechner Schnuppern.pdb
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.csprojAssemblyReference.cache
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner_Schnuppern.Form1.resources
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.csproj.GenerateResource.cache
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.AssemblyInfoInputs.cache
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.AssemblyInfo.cs
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.csproj.CoreCompileInputs.cache
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.dll
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.pdb
+C:\Users\Schnupperlehre.WIN-DELL-11\Desktop\Rechner Schnuppern\Rechner Schnuppern\obj\Debug\netcoreapp3.1\Rechner Schnuppern.genruntimeconfig.cache
